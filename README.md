@@ -5,7 +5,17 @@ Shoperz - Free Open Source Web Shop
 >
 >[+] Function change password
 >
+>[+] Function Change page Name
+>
 >[+]
+>
+>[+]
+>
+>[+]
+>
+>[+]
+
+
 
 ShopPerz Adalah Sebuah Web Aplication Open Source Yang dapat di gunakan siapa saja serta sangat simpel karena tidak menggunakan php mysql :)
 
