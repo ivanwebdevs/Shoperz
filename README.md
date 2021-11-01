@@ -27,7 +27,7 @@ Keunggulan :
 4.2x Security Admin Login (Anti Sql Injection)
 5.Admin Username & Password hanya bisa di dalam directory server langsung (hanya administrator yang dapat mengubahnya)
 
-Fitur : 
+##_*Fitur*_ : 
 >[+] Add-item function (admin)
 >
 >[+] Edit-Item function (admin)
