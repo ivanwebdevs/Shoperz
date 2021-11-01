@@ -28,12 +28,18 @@ Fitur :
 Instalasi :
 
 -> Download Script menggunakan git clone atau extract manual ( git clone https://github.com/blablabla )
+
 -> Buka file config.php
+
 -> Untuk Mengubah Judul web kamu hanya perlu mengubah value pada variable $web_name
+
     ex: $web_name = "Judul web anda di sini";
+    
 -> Untuk Mengubah nomor untuk pembeli membeli produk anda adalah dengan mengubah value pada variable $nomor_bisnis_wa
     ex: $nomor_bisnis_wa = "62blablablabla"; note: wajib menggunakan 62
+    
 -> Untuk Mengubah password admin kamu dapat membuka directory file "./admin/login.php" dan mengubah variable $username dan $password sesuai dengan yang kalian mau
+
 
 
 Cara penggunaan : 
