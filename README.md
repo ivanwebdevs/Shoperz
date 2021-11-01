@@ -7,13 +7,13 @@ Shoperz - Free Open Source Web Shop
 >
 >[+] Function Change page Name
 >
->[+]
+>[+] Function Change Social Link
 >
->[+]
+>[+] Function add Phone Number
 >
->[+]
+>[+] New page will release ( Contact ) and all (product list)
 >
->[+]
+>[+] Unknown No more
 
 
 
