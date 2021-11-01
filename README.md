@@ -58,16 +58,24 @@ Cara penggunaan :
 Login pada directory admin ex: localhost://admin/
 
 [+] Untuk Menambahkan Produk/item kita hanya tinggal menekan icon tambah Produk
+
 [+] Untuk Mengedit Produk/Item kita hanya tinggal menekan icon edit Produk dan mencari produk yang ingin di edit
+
 [+] Untuk Menghapus Produk/item kita hanya tinggal menekan icon hapus produk dan mencair produk yang ingin di hapus
+
 [+] Kamu juga dapat mencari langsung pada kolom pencarian di atas untuk mengedit atau menghapus file
 
 
 Cara membeli : 
+
 [+] Pembeli dapat mencari item/produk pada kolom pencarian, kategori, atau pada list produk terbaru
+
 [+] Pembeli memencet tombol add-to cart atau tombol + pada produk 
+
 [+] Pembeli memasukan Qty atau kuantitas berapa produk yang ingin di Pembeli
+
 [+] Pembeli menekan tombol beli di whatsapp maka akan di arahkan ke whatsapp & Pesan langsung terkirim ke penjual
+
 
 
 
@@ -81,36 +89,59 @@ ShoPerz is a Web based aplication (php) With No cost to use (Open source) and Sh
 Advantage :
 
 [+] ShoPerz Not Using php mysql as a place to store data
+
 [+] Extract and use immediately (plug and play package)
+
 [+] 2x Security System
+
 [+] 2x Security Admin Login (Anti Sql Injection)
+
 [+] Admin Username & Password can only be in the direct server directory (only administrators can change it)
 
 
+
 Installation :
+
 [+] Download Script using git clone or manual extract ( git clone https://github.com/blablabla )
+
 [+] Open the config.php file
+
 [+] To Change the title of the web you only need to change the value of the variable $web_name
+
     ex: $web_name = "Your web title is here";
 
 [+] To change the number for buyers to buy your product is to change the value in the variable $number_bisnis_wa
+
     ex: $business_number = "62blablablabla"; note: must use your num country code
 [+] To change the admin password you can open the directory file "./admin/login.php" and change the $username and $password variables according to what you want
 
 
 
+
 Features: 
+
 [+] Add-item function (admin)
+
 [+] Edit-Item function (admin)
+
 [+] Remove-item function (admin)
+
 [+] Add-image function (admin)
+
 [+] Log in function (admin)
+
 [+] Log Out function (admin)
+
 [+] Search engine on admin (admin)
+
 [+] Search Engine on Edit-Item (admin)
+
 [+] Search Engine on Remove-item (admin)
+
 [+] Search Engine on Home (user)
+
 [+] Item Filter By Category (user)
+
 
 
 How to use :
@@ -118,17 +149,26 @@ How to use :
 Login to the admin directory ex: localhost://admin/
 
 [+] To add products/items, we just need to press the add product icon
+
 [+] To edit a product/item, we just need to press the edit product icon and look for the product we want to edit
+
 [+] To delete a product/item, we just need to press the delete product icon and dilute the product that we want to delete
+
 [+] You can also search directly in the search field above to delete or delete files
 
 
 
+
 How to buy:
+
 [+] Buyers can search for items/products in the search field, category, or in the latest product list
+
 [+] The buyer presses the add-to cart button or the + button on the product
+
 [+] The buyer enters the Qty or quantity of the product that the buyer wants to buy
+
 [+] The buyer presses the buy button on whatsapp then it will be directed to whatsapp & the message is sent directly to the seller
+
 
 
 
@@ -137,6 +177,7 @@ How to buy:
 REQUIREMENT: 
 
 -> PHP 5.1 or latest
+
 -> Git 
 
 
@@ -144,12 +185,16 @@ REQUIREMENT:
 Credit:
 
 Author : Ivan dwe Yanto (ZerDev)
+
 design : w3school , stackoverflow
+
 Thanks to  Github, W3school , stackoverflow, and You! :D
 
 
 
+
 Tag:
+
 shop webshop web shop ShoPerz free open source web shop w3school design free web shop open source online shop
 
 
