@@ -1,6 +1,8 @@
 # Shoperz
 Shoperz - Free Open Source Web Shop
 
+>Next update will be added:
+> hey
 
 ShopPerz Adalah Sebuah Web Aplication Open Source Yang dapat di gunakan siapa saja serta sangat simpel karena tidak menggunakan php mysql :)
 
