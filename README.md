@@ -29,15 +29,25 @@ Keunggulan :
 
 Fitur : 
 >[+] Add-item function (admin)
+>
 >[+] Edit-Item function (admin)
+>
 >[+] Remove-item function (admin)
+>
 >[+] Add-image function (admin)
+>
 >[+] Log in function (admin)
+>
 >[+] Log Out function (admin)
+>
 >[+] Search engine on admin (admin)
+>
 >[+] Search Engine on Edit-Item (admin)
+>
 >[+] Search Engine on Remove-item (admin)
+>
 >[+] Search Engine on Home (user)
+>
 >[+] Item Filter By Category (user)
 
 
