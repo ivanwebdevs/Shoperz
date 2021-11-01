@@ -13,17 +13,28 @@ Keunggulan :
 5.Admin Username & Password hanya bisa di dalam directory server langsung (hanya administrator yang dapat mengubahnya)
 
 Fitur : 
-1. Add-item function (admin)
-2. Edit-Item function (admin)
-3. Remove-item function (admin)
-4. Add-image function (admin)
-5. Log in function (admin)
-6. Log Out function (admin)
-7. Search engine on admin (admin)
-8. Search Engine on Edit-Item (admin)
-9. Search Engine on Remove-item (admin)
-10. Search Engine on Home (user)
-11. Item Filter By Category (user)
+
+[+] Add-item function (admin)
+
+[+] Edit-Item function (admin)
+
+[+] Remove-item function (admin)
+
+[+] Add-image function (admin)
+
+[+] Log in function (admin)
+
+[+] Log Out function (admin)
+
+[+] Search engine on admin (admin)
+
+[+] Search Engine on Edit-Item (admin)
+
+[+] Search Engine on Remove-item (admin)
+
+[+] Search Engine on Home (user)
+
+[+] Item Filter By Category (user)
 
 Instalasi :
 
