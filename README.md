@@ -2,6 +2,7 @@
 Shoperz - Free Open Source Web Shop
 
 >Next update will be added:
+
  [+] Function change password
  
  [+]
