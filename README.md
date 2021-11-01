@@ -19,13 +19,17 @@ Shoperz - Free Open Source Web Shop
 
 ShopPerz Adalah Sebuah Web Aplication Open Source Yang dapat di gunakan siapa saja serta sangat simpel karena tidak menggunakan php mysql :)
 
+## _*Keunggulan*_ : 
+>1.Tidak Menggunakan php mysql sebagai tempat menyimpan data
+>
+>2.Extract dan langsung pakai (plug and play package)
+>
+>3.2x Security System
+>
+>4.2x Security Admin Login (Anti Sql Injection)
+>
+>5.Admin Username & Password hanya bisa di dalam directory server langsung (hanya administrator yang dapat mengubahnya)
 
-Keunggulan :
-1.Tidak Menggunakan php mysql sebagai tempat menyimpan data
-2.Extract dan langsung pakai (plug and play package)
-3.2x Security System
-4.2x Security Admin Login (Anti Sql Injection)
-5.Admin Username & Password hanya bisa di dalam directory server langsung (hanya administrator yang dapat mengubahnya)
 
 ## _*Fitur*_ : 
 >[+] Add-item function (admin)
