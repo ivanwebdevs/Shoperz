@@ -28,29 +28,27 @@ Keunggulan :
 5.Admin Username & Password hanya bisa di dalam directory server langsung (hanya administrator yang dapat mengubahnya)
 
 Fitur : 
+>[+] Add-item function (admin)
 
-[+] Add-item function (admin)
+>[+] Edit-Item function (admin)
 
-[+] Edit-Item function (admin)
+>[+] Remove-item function (admin)
 
-[+] Remove-item function (admin)
+>[+] Add-image function (admin)
 
-[+] Add-image function (admin)
+>[+] Log in function (admin)
 
-[+] Log in function (admin)
+>[+] Log Out function (admin)
 
-[+] Log Out function (admin)
+>[+] Search engine on admin (admin)
 
-[+] Search engine on admin (admin)
+>[+] Search Engine on Edit-Item (admin)
 
-[+] Search Engine on Edit-Item (admin)
+>[+] Search Engine on Remove-item (admin)
 
-[+] Search Engine on Remove-item (admin)
+>[+] Search Engine on Home (user)
 
-[+] Search Engine on Home (user)
-
-[+] Item Filter By Category (user)
-
+>[+] Item Filter By Category (user)
 Instalasi :
 
 -> Download Script menggunakan git clone atau extract manual ( git clone https://github.com/blablabla )
