@@ -58,7 +58,7 @@ Shoperz - Free Open Source Web Shop
 
 ## _*Instalasi*_ : 
 
->-> Download Script menggunakan git clone atau extract manual ( git clone https://github.com/blablabla )
+>-> Download Script menggunakan git clone atau extract manual ( git clone https://github.com/ivanwebdevs/Shoperz )
 >
 >-> Buka file config.php
 >
