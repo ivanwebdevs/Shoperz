@@ -60,6 +60,8 @@ Shoperz - Free Open Source Web Shop
 
 >-> Download Script menggunakan git clone atau extract manual ( git clone https://github.com/ivanwebdevs/Shoperz )
 >
+>      git clone https://github.com/ivanwebdevs/Shoperz
+>
 >-> Buka file config.php
 >
 >-> Untuk Mengubah Judul web kamu hanya perlu mengubah value pada variable $web_name
